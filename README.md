@@ -1,2 +1,2 @@
-# PythonPorject
-This is a my python project repository
+# PythonRepository
+This is a my python repository
